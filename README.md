@@ -11,7 +11,6 @@ A simple image set to be used as default thumbnails for **places** and **food sp
 -> food
 -> places
 
-
 ---
 
 ## 🏞️ Sightseeing Image List (`images/sightseeing/`)
@@ -52,6 +51,7 @@ A simple image set to be used as default thumbnails for **places** and **food sp
 - festival.jpg
 - market.jpg
 - default.jpg
+- mall.jpg
 
 ---
 
@@ -92,13 +92,13 @@ A simple image set to be used as default thumbnails for **places** and **food sp
 
 ## 🧾 Image Specs (Recommended)
 
-| Attribute      | Value        |
-|----------------|--------------|
-| **Size**       | 300×200 or 400×250 px (landscape) |
-| **Format**     | JPG or WebP  |
-| **Compression**| 60–75% quality |
-| **File Size**  | 30–100 KB     |
-| **Style**      | Clean, vibrant, mobile-friendly |
+| Attribute       | Value                             |
+| --------------- | --------------------------------- |
+| **Size**        | 300×200 or 400×250 px (landscape) |
+| **Format**      | JPG or WebP                       |
+| **Compression** | 60–75% quality                    |
+| **File Size**   | 30–100 KB                         |
+| **Style**       | Clean, vibrant, mobile-friendly   |
 
 ---
 
@@ -113,3 +113,4 @@ A simple image set to be used as default thumbnails for **places** and **food sp
 https://cdn.jsdelivr.net/gh/your-username/place-images/images/sightseeing/lake.jpg
 
 
+```
