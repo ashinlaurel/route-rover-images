@@ -4,8 +4,6 @@
 
 A simple image set to be used as default thumbnails for **places** and **food spots** in our travel app (e.g. Add Place / Add Food Place screens).
 
-These images will be served via CDN (e.g. GitHub + jsDelivr) and used when actual images are unavailable.
-
 ---
 
 ## 📁 Folder Structure
